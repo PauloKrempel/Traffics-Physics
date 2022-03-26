@@ -1,0 +1,9 @@
+{
+    "language": "ING",
+    "playButton": "START",
+    "velocityUM": "VELOCITY",
+    "velocityDOIS": "VELOCITY",
+    "waitForSecondsUM": "WAIT FOR START?",
+    "waitForSecondsDOIS": "WAIT FOR START?",
+    "tempo": "TIME"
+}
